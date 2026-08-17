@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shan Clothes | Luxury Fashion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<header>
+    <h1>Shan Clothes</h1>
+    <p>Luxury & Premium Fashion Store</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Collection</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Elegance Meets Premium Style</h2>
+    <p>
+        Shan Clothes offers high-quality fabrics,
+        modern designs and luxury fashion for everyone.
+    </p>
+    <button onclick="shopNow()">Explore Collection</button>
+</section>
+
+<section class="collection">
+    <div class="box">
+        <h3>Premium Men Wear</h3>
+        <p>Stylish shirts, suits and traditional outfits.</p>
+    </div>
+
+    <div class="box">
+        <h3>Luxury Women Wear</h3>
+        <p>Elegant dresses with exclusive designs.</p>
+    </div>
+
+    <div class="box">
+        <h3>New Arrivals</h3>
+        <p>Latest fashion trends with premium quality.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Shan Clothes | Luxury Fashion Pakistan</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
